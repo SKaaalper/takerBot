@@ -18,7 +18,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Zlkcyber/takerBot.git
+   git clone https://github.com/SKaaalper/takerBot.git
    cd takerBot
    ```
 2. Install dependencies:
